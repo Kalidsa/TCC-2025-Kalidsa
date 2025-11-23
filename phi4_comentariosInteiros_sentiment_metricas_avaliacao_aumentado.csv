@@ -1,0 +1,2 @@
+Modelo,Precision,Recall,F1-Score,Accuracy,Tempo (s),CPU (%),Memória (MB)
+phi4,0.339,0.321,0.304,0.321,97779.23,0.0,166.92

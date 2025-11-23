@@ -1,0 +1,2 @@
+Modelo,Precision,Recall,F1-Score,Accuracy,Tempo (s),CPU (%),Memória (MB)
+llama3.2,0.764,0.482,0.443,0.482,19832.72,0.0,165.24

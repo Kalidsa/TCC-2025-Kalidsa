@@ -1,0 +1,2 @@
+Modelo,Precision,Recall,F1-Score,Accuracy,Tempo (s),CPU (%),Memória (MB)
+mistral,0.264,0.336,0.280,0.336,59404.39,0.0,163.11
