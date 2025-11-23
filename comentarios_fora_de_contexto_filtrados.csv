@@ -1,0 +1,29 @@
+content_traduzido,sentiment,sentiment_polarity,spacy_lemma,cleaned_content,cluster,umap_x,umap_y,common_word_count
+odiei brilho fica aumentando automaticamente nao retirar funcionalidade,anger,negative,"['odiei', 'brilho', 'ficar', 'aumentar', 'automaticamente', 'retirar', 'funcionalidade']",odiei brilho ficar aumentar automaticamente retirar funcionalidade,-1,-3.6491299,-1.7858166,1
+troquei normal lite so vou usar lite outro ocupa espaco pesado condicoes,sadness,positive,"['troquei', 'normal', 'lite', 'usar', 'lite', 'ocupar', 'espaco', 'pesar', 'condicoe']",troquei normal lite usar lite ocupar espaco pesar condicoe,-1,-0.5477515,3.758568,1
+legal variedade condicoes filtrar acordo interesse pessoal fantastico,happiness,positive,"['legal', 'variedade', 'condicoes', 'filtrar', 'acordo', 'interesse', 'pessoal', 'fantastico']",legal variedade condicoes filtrar acordo interesse pessoal fantastico,-1,0.15044586,3.7025723,0
+todo tempo interrompe navegacao,disgust,negative,"['tempo', 'interrompe', 'navegacao']",tempo interrompe navegacao,-1,-3.6359851,-2.2669542,1
+muita propaganda tempo todo,disgust,negative,"['propaganda', 'tempo']",propaganda tempo,-1,-3.5081701,-2.6669087,1
+ridiculo so atrapalha celular,anger,negative,"['Ridiculo', 'atrapalhar', 'celular']",ridiculo atrapalhar celular,-1,-3.4115813,-2.2725577,1
+lixo deveria google store,anger,negative,"['lixo', 'dever', 'google', 'store']",lixo dever google store,-1,-3.103696,-2.1922312,1
+bonitas fotos,happiness,positive,"['bonita', 'foto']",bonita foto,-1,-3.1067822,-2.7048585,1
+nao entendo quase nada,disgust,negative,"['enter', 'quase']",enter quase,-1,-3.4229496,-2.731016,0
+canal fotos favoritos,neutral,neutral,"['canal', 'foto', 'favorito']",canal foto favorito,-1,-3.3820632,-2.6292787,1
+radio desligando,neutral,neutral,"['radio', 'desligar']",radio desligar,-1,-3.2667427,-2.9342384,0
+so emcomoda cheio propagandas nao roda fica emxendo pacienssia,anger,negative,"['emcomoda', 'cheio', 'propaganr', 'roda', 'ficar', 'emxer', 'pacienssia']",emcomoda cheio propaganr roda ficar emxer pacienssia,-1,-3.744752,-1.9779103,1
+nao ta limpando nada,anger,negative,"['nao', 'limpar']",nao limpar,-1,-3.3957314,-3.0121841,1
+nao adiantou instalar,disgust,negative,"['adiantar', 'instalar']",adiantar instalar,-1,-3.6470525,-2.952067,0
+maneira suja ganhar dinheiro dev lixo,anger,negative,"['maneira', 'sujo', 'ganhar', 'dinheiro', 'lixo']",maneira sujo ganhar dinheiro lixo,-1,-3.3131707,-2.4511385,1
+ruim,anger,negative,['ruim'],ruim,-1,-3.351386,-2.8243804,1
+nao serve aqui motorola,disgust,negative,"['nao', 'servir', 'aqui', 'motorola']",nao servir aqui motorola,-1,-3.7438397,-2.8070195,1
+,disgust,negative,[],,-1,-3.3711202,-2.8744388,0
+bonitas fotos destaque aurora novembro,happiness,positive,"['bonita', 'fotos', 'destaque', 'aurorar', 'novembro']",bonita fotos destaque aurorar novembro,-1,-3.1290226,-2.693063,0
+bonitas fotos europa,happiness,positive,"['bonita', 'foto']",bonita foto,-1,-3.146539,-2.6964285,1
+radio desligando sistema permitindo sistema comunalizasse estacao espacial,neutral,neutral,"['radio', 'desligar', 'sistema', 'permitir', 'sistema', 'comunalizar', 'estacao', 'espacial']",radio desligar sistema permitir sistema comunalizar estacao espacial,-1,-3.196211,-3.130323,0
+radio desligando se amores deus ficando aguas profundezas universo,neutral,neutral,"['radio', 'desligar', 'amor', 'de eus', 'ficar', 'aguo', 'profundeza', 'universo']",radio desligar amor de eus ficar aguo profundeza universo,-1,-3.180967,-3.1369827,1
+radio desligando acesso servicos internet,neutral,neutral,"['radio', 'desligar', 'acesso', 'servico', 'Internet']",radio desligar acesso servico internet,-1,-3.1882954,-3.081301,1
+gentileza larga bagunca significa cabrigo sim copo agua doce seu principal componente suco limao baguncan conhecido,neutral,neutral,"['gentileza', 'largo', 'bagunca', 'significar', 'cabrigo', 'sim', 'copo', 'agua', 'doce', 'principal', 'componente', 'suco', 'conhecer']",gentileza largo bagunca significar cabrigo sim copo agua doce principal componente suco conhecer,-1,-4.158728,-4.3101983,0
+gentileza larga bagunca uso tao rapido curadores consideram especie baguenta besta curada profissionais,neutral,neutral,"['gentileza', 'largo', 'bagunca', 'uso', 'tao', 'rapir', 'curador', 'considerar', 'especie', 'baguento', 'besta', 'curar', 'profissional']",gentileza largo bagunca uso tao rapir curador considerar especie baguento besta curar profissional,-1,-4.1763196,-4.3229713,1
+anuncio ela filho comecaram namorar escola aldeia,neutral,neutral,"['anuncio', 'comecar', 'namorar', 'escola']",anuncio comecar namorar escola,-1,-3.7158113,-2.5355015,1
+limpar arquivos desnecessarios incluindo windows sistema operacional windows nt interpretador c windows nt baseado c sistema operacional base suporte openoffice interpretador c interpretador c suporte microsoft visual studio c especialmente placa mae c suporte xfce biblioteca c gnu linux,neutral,neutral,"['limpar', 'arquivo', 'desnecessario', 'incluir', 'sistema', 'operacional', 'nt', 'basear', 'sistema', 'operacional', 'base', 'suporte', 'interpretador', 'interpretador', 'suporte', 'microsoft', 'visual', 'studio', 'especialmente', 'placo', 'mae', 'suporte', 'linux']",limpar arquivo desnecessario incluir sistema operacional nt basear sistema operacional base suporte interpretador interpretador suporte microsoft visual studio especialmente placo mae suporte linux,-1,-3.6957426,-6.7038975,0
+gentileza larga bagunca planta familia saarazes originaria litoral ilhas acores,neutral,neutral,"['gentileza', 'largo', 'bagunca', 'planto', 'familia', 'saaraz', 'originaria', 'litoral', 'ilha', 'acor']",gentileza largo bagunca planto familia saaraz originaria litoral ilha acor,-1,-4.170873,-4.233353,0
