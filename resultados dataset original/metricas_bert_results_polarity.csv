@@ -1,0 +1,5 @@
+Metric,BERTimbau
+Precision,0.817
+Recall,0.824
+F1-Score,0.818
+Accuracy,0.824
